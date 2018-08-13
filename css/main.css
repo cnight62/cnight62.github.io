@@ -45,6 +45,7 @@ ul {
 li {
   font-size: 20px
   border-bottom: 1px solid #ccc;
+  background: #ffe6e6;
 }
  
 li:last-child {
@@ -68,5 +69,5 @@ li a {
  
 li a:hover {
   font-size: 25px;
-  background: #f6f6f6;
+  background: ##ffb3b3;
 }
