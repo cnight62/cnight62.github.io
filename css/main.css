@@ -53,6 +53,7 @@ li a {
   color: #000;
   display: block;
   width: 200px;
+  font-size: 100px
  
   -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
   -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
@@ -62,6 +63,6 @@ li a {
 }
  
 li a:hover {
-  font-size: 30px;
+  font-size: 150px;
   background: #f6f6f6;
 }
