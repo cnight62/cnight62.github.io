@@ -100,4 +100,6 @@ white-space: pre;
 white-space: -moz-pre-wrap; / fennec /
 white-space: pre-wrap;
 white-space: pre\9; / IE7+ */
+    white-space: pre-line;
+    
 }
