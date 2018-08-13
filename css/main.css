@@ -95,4 +95,9 @@ span {
 pre {
    font-family: "courier new", courier, monospace;
     word-break: break-all;
+    word-wrap: break-word;
+white-space: pre;
+white-space: -moz-pre-wrap; / fennec /
+white-space: pre-wrap;
+white-space: pre\9; / IE7+ */
 }
