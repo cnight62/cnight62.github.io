@@ -92,3 +92,9 @@ padding: 0 20px 20px 0;
     background: #efccff;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
+span {
+    display: inline-block;
+}
+img {
+    width: 50%;
+}
