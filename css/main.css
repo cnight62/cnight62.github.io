@@ -1,6 +1,6 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 30px auto;
+    width: 80%;
     background-color: white
 }
 nav ul, footer ul {
@@ -44,7 +44,7 @@ ul {
 }
  
 li {
-  font-size: 20px
+  font-size: 60px
   border-bottom: 1px solid #ccc;
 }
  
