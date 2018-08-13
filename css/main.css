@@ -94,4 +94,5 @@ span {
 }
 pre {
    font-family: "courier new", courier, monospace;
+    word-break: break-all;
 }
