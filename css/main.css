@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #433aa3;
     font-size: 60px
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -53,7 +53,7 @@ li:last-child {
  
 li a {
   text-decoration: none;
-  color: #000;
+  color: #433aa3;
   display: block;
   width: 200px;
   font-size: 60px
