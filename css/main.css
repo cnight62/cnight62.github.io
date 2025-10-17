@@ -98,6 +98,16 @@ padding: 0 20px 20px 0;
     padding: 20px;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
+.menu-unordered-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ 
+.menu-list-item {
+  font-size: 60px
+  border-bottom: 1px solid #ccc;
+}
 span {
     display: inline-block;
 }
