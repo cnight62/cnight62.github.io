@@ -1,1 +1,1 @@
-# cnight62.github.io
+# cnight62.github.io is a basic HTML javascript websitee designed as a public repository for mealplans and diet and exercise tracking. It incorporates a simple open source code image carousel to display weight loss progress photos and a employs an open source utterances project for optional comments. Not designed for retail/advertising -purely a conveniently accessible weight loss journal.
